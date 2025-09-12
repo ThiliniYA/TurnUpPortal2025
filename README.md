@@ -1,4 +1,4 @@
 # TurnUpPortal2025
 Learning automation.
 Learning automation testing with selenium and c#.
-Sucessfully loged in to the portal.git staus
+Sucessfully loged in to the portal.
